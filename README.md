@@ -1,7 +1,7 @@
 
 # HACKDAY PROJECT: datagram.io
 
-Datagram is a realtime events/statistics recording and distribution backend written in Go (for performance reasons).
+Datagram is a realtime events/statistics recording and distribution backend written in Go.
 The backend is designed to receive messages via:
 
 * UDP for optimal performance
